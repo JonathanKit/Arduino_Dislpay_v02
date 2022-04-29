@@ -20,3 +20,6 @@ The display is connected to Spotify and only needs power and a Wifi connection. 
   * Speechiness
 
 Information what these features mean in detail can be read on [Spotify Features](https://developer.spotify.com/discover/#audio-features-analysis "Spotify Features") 
+
+
+Thanks to Brian Lough for sharing his work https://github.com/witnessmenow/spotify-api-arduino
